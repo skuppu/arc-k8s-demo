@@ -6,3 +6,4 @@ metadata:
 data:
   logs: https://logs.endpoint.internal.corpnet
   metrics: https://metrics.endpoint.internal.corpnet/v2
+  hello: world
